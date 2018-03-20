@@ -26,4 +26,8 @@
     * всички отговори
     * спечелени точки
     * номер в ранглистата
+ * Нефункционални изисквания:
+    * Java backend - Jersey REST API
+    * Relational Database (MySql or PostgreSQL)
+    * React frontend
 
