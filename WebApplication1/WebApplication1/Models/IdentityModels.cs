@@ -15,5 +15,7 @@ namespace WebApplication1.Models
         }
 
         public System.Data.Entity.DbSet<WebApplication1.Models.Question> Questions { get; set; }
+
+        public System.Data.Entity.DbSet<WebApplication1.Models.Comment> Comments { get; set; }
     }
 }
